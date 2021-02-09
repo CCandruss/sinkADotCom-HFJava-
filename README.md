@@ -4,3 +4,4 @@
 Needs.
 -Better intial messaging that states positions to be chosen from.
 -A GUI added at some point, if I feel this is a good program to practice that on.
+-Code in master.
